@@ -22,7 +22,7 @@
   
   ```
   [ssh]
-  SSH_NAME = <your ssh_name>
+  SSH_NAME = <your SSH_name>
   
   [mathpix]
   APP_ID   = <your Mathpix APP_ID>
