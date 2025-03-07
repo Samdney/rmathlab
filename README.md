@@ -4,7 +4,7 @@
 
 ## Requirements
 
-* [Passwordless SSH access](https://remarkablewiki.com/tech/ssh#passwordless_login_with_ssh_keys) to your reMarkable with `ssh <your ssh_name>`.
+* [Passwordless SSH access](https://remarkablewiki.com/tech/ssh#passwordless_login_with_ssh_keys) to your reMarkable with `ssh <your SSH_NAME>`.
 * Access to the reMarkable's official PDF renderer through its [USB web interface](https://remarkablewiki.com/tech/webinterface).
 * [rsync](https://rsync.samba.org/) (comes with most Linux distributions, by default).
 * [Mathpix APP_ID and APP_KEY](https://mathpix.com/) Create an account at Mathpix and receive an APP_ID and APP_KEY.
