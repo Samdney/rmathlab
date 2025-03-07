@@ -18,7 +18,7 @@
 
 * Connect the Remarkable 2 tablet via USB and enable USB connection via `Menue -> Settings -> Storage -> USB Connection`
 * Then run `rmathlab.py <filename>` to request handwriting recognition by Mathpix for the file `<filename>`. Read `rmathlab.py --help` to see how you can change its default behavior.
-* On the first run, you will be asked for your ssh_name, Mathpix APP_ID and APP_KEY, which will be written to a configfile `config.ini`. You can also create the configfile manually by adding it to your `rmathlab`app directory (default: `/home/<user>/.rmathlab`), with the content
+* At the first run, you will be asked for your SSH_NAME, Mathpix APP_ID and APP_KEY, which will be written to a configfile `config.ini`. You can also create the configfile manually by adding it to your `rmathlab`app directory (default: `/home/<user>/.rmathlab`), with the content
   
   ```
   [ssh]
